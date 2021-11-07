@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The game guess the number</string>
+    <string name="editText_lower_element">Минимальный</string>
+    <string name="editText_upper_element">Максимальный</string>
+    <string name="btn_play">Играть</string>
+    <string name="btn_yes">Да</string>
+    <string name="btn_no">Нет</string>
+    <string name="textView_is_number_bigger">Ваш номер больше, чем:</string>
+    <string name="warning_empty_fields">Пожалуйста введите минимум или макмимум.</string>
+    <string name="editText_welcome_text">Привет. Введите минимум и максимум</string>
+    <string name="activity_result_error">Произошла ошибка!</string>
+    <string name="message_result">"Ваш номер: "</string>
+</resources>

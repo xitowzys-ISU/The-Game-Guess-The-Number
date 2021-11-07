@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:ems="10"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/lower"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/editText_lower_element"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="178dp"
+        tools:layout_editor_absoluteY="132dp"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/upper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:ems="10"
+        android:hint="@string/editText_upper_element"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="168dp"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/button"
+        android:onClick="onStartGameClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:backgroundTint="@color/teal_200"
+        android:text="@string/btn_play"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="459dp" />
+
+</LinearLayout>
