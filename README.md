@@ -14,8 +14,5 @@
 
 Демонстрация работы:
 
-
-
-| ![demo_1](https://gitlab.com/ISU_Applied_Computer_Science/5th-semester/mobile-development/The-game-guess-the-number/-/raw/main/raw/demo_1.jpeg?inline=false) | ![demo_2](https://gitlab.com/ISU_Applied_Computer_Science/5th-semester/mobile-development/The-game-guess-the-number/-/raw/main/raw/demo_2.jpeg?inline=false) | ![demo_3](https://gitlab.com/ISU_Applied_Computer_Science/5th-semester/mobile-development/The-game-guess-the-number/-/raw/main/raw/demo_3.jpeg?inline=false) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
+| ![demo_1](/raw/demo_1.jpeg) | ![demo_2](/raw/demo_2.jpeg) | ![demo_3](/raw/demo_3.jpeg) |
+| --------------------------- | --------------------------- | --------------------------- |
